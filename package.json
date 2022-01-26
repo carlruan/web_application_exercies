@@ -4,8 +4,11 @@
   "description": "For self learning",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "myapp" : "nodemon app.js"
   },
   "author": "carlruan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
 }
