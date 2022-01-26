@@ -1,0 +1,11 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "For self learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "carlruan",
+  "license": "ISC"
+}
